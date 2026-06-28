@@ -1,0 +1,9 @@
+Python 3.x
+
+Libraries
+
+numpy
+
+pandas
+
+scikit-learn
